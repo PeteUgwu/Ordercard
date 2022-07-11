@@ -79,7 +79,7 @@ left:20px;
   position: relative;
   bottom:auto;
   left :auto;
-  top:10px;
+  top:5px;
 }
 
 .btn:hover {
@@ -89,7 +89,7 @@ left:20px;
 
 .order{
   position: relative;
-  top:30px;
+  top:15px;
 }
 
 p{
